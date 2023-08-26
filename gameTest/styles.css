@@ -4,9 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: aqua;
-    background-image: url("https://cdn.dribbble.com/users/9097/screenshots/1193259/media/e20243c80e081576bf4e4bfd5b128c3c.jpg?resize=450x338&vertical=center");
-    
+    background-color: rgb(21, 5, 165);
+    background-image: url();
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -47,4 +46,4 @@ color: darkorange;
     
 
 } 
-/* hii, you can check this one. */
+/* solid background, maybe something a lttle more neutral. */
